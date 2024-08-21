@@ -1,5 +1,10 @@
-## Hi there 👋
+#🚀 Greetings, I'm Rhythem jain
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/https://github.com/rhythemjain04/rhythemjain04/[https://github.com/rhythemjain04/rhythemjain04]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
+#🌱 I’m currently exploring the depths of Data Structures and Algorithms
 <!--
 **rhythemjain04/rhythemjain04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
