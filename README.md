@@ -12,7 +12,7 @@ Final Year Student At Vellore Institute of Technology, Vellore
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/https://github.com/rhythemjain04/rhythemjain04/[https://github.com/rhythemjain04/rhythemjain04]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/Chiranjeev-droid/Chiranjeev-droid/0d92ef41189453568ec2929a7a56d5653cd67623/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 🌱 I’m currently exploring the depths of Data Structures and Algorithms
