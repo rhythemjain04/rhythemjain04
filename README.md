@@ -1,4 +1,5 @@
-🚀 Greetings, I'm Rhythem jain
+<div align = "center">🚀 Greetings, I'm Rhythem jain</div>
+<br>
 Final Year Student At Vellore Institute of Technology, Vellore
 <div align="center">
     <a href="https://www.linkedin.com/in/rhythem-jain-4b3799259/">
