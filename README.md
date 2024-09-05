@@ -29,6 +29,9 @@
             🌱 I’m currently exploring the depths of Data Structures and Algorithms
         </li>
         <li>
+            My coding Profiles - <a href = "https://leetcode.com/u/rhythem_jain/">leetcode</a> <a href = "https://www.naukri.com/code360/profile/74877a0f-6b97-4190-9ced-1ba46779545c"> Coding NINJAS</a>
+        </li>
+        <li>
             <p dir = "auto">
                 📫 Connect with me at
                 <strong>
