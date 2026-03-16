@@ -1,6 +1,7 @@
 <div align="center">🚀 Greetings, I'm Rhythem Jain</div>
 <br>
-<div align="center">Final Year Student at Vellore Institute of Technology, Vellore</div>
+<div align="center">Java Developer at redian softwares, currently working at Airtel Payments bank on UPI project</div>
+<div align="center">Computer Science Graduate from Vellore Institute of Technology, Vellore</div>
 <br>
 
 <div align="center">
